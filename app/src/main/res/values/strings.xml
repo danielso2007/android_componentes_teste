@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetoComponentes</string>
+    <string name="str_digite_estado">Digite um estado</string>
+    <string name="str_hint_estados">Escola um estado</string>
+</resources>
